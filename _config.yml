@@ -14,14 +14,14 @@ name                     : &name "Delu KONG"
 description              : &description "personal description"
 url                      : https://danielkong1996.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danielkong1996/deludanielkong.github.io"
+repository               : "danielkong1996/danielkong1996.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/DanielKong1996/danielkong1996.github.io/blob/master/assets/square_pic.png" # URL of the avatar image
+  avatar           : "square_pic.png" # URL of the avatar image
   name             : "Delu (Daniel) KONG" # Name of the author
   pronouns         : "He/Him"  
   bio              : "PhD student in ML-enhanced translation studies" # Short bio or description
