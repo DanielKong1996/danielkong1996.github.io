@@ -21,7 +21,7 @@ repository               : "danielkong1996/deludanielkong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/square pic.png" # URL of the avatar image
+  avatar           : "https://github.com/DanielKong1996/danielkong1996.github.io/blob/master/assets/square_pic.png" # URL of the avatar image
   name             : "Delu (Daniel) KONG" # Name of the author
   pronouns         : "He/Him"  
   bio              : "PhD student in ML-enhanced translation studies" # Short bio or description
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
