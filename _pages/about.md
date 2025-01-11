@@ -35,7 +35,8 @@ Feel free to contact me via:
 Funny stuff
 ======
 Try this! I've used [Google NotebookLM](https://notebooklm.google.com/) to generate a "mini-pod cast" based on my CV. Technology is 
-amazing! You can listen to it below:
+amazing! **Please note, this is AI-generated, so there might contain certain mistakes and exagerations. Just for FUN! **
+You can listen to it below:
 
 <audio controls>
   <source src="../assets/Daniel Kong_ CV and Research.wav" type="audio/mpeg">
