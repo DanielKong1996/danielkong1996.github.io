@@ -1,13 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Delu Daniel KONG"
+exerpt: "About Delu Daniel KONG"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Delu (Daniel) Kong, a Ph.D. student at the LT3 Language and Translation Technology Team, Ghent University, Belgium. My research interests include machine translation, post-editing, corpus-based translation studies, and digital humanities.
+
+I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji University, China, and earned my master's degree from the School of English Studies, Shanghai International Studies University. During my academic journey, I received multiple awards, including provincial-level Outstanding Graduate recognitions and fellowship awards for three consecutive years.
+
+You can find my CV here: Daniel Kong’s CV.
+
+Feel free to contact me via:
+
+Email: daniel.kong@ugent.be
+GitHub: github.com/danielkong1996
+WeChat: WeChat QR Code
+
 
 A data-driven personal website
 ======
