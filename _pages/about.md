@@ -8,7 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Delu (Daniel) Kong, a Ph.D. student at the LT3 Language and Translation Technology Team, Ghent University, Belgium. My research interests include machine translation, post-editing, corpus-based translation studies, and digital humanities.
+<h1>I am Delu (Daniel) Kong</h1>
+<h2>孔德璐 (Kǒng Dé Lù)</h2>
+<p><em>Pronunciation: Kǒng Dé Lù</em></p>
+<button onclick="playAudio()">🔊 Listen</button>
+
+<audio id="audio" src="../assets/NameAudio.mp3"></audio>
+
+<script>
+  function playAudio() {
+    document.getElementById('audio').play();
+  }
+</script>
+
+I am Delu (Daniel) Kong , an exchange Ph.D. student at the LT3 Language and Translation Technology Team, Ghent University, Belgium. My research interests include machine translation, post-editing, corpus-based translation studies, and digital humanities.
 
 I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji University, China, and earned my master's degree from the School of English Studies, Shanghai International Studies University. During my academic journey, I received multiple awards, including provincial-level Outstanding Graduate recognitions and fellowship awards for three consecutive years.
 
