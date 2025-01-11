@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<h1>I am Delu (Daniel) Kong</h1>
 <h2>孔德璐 (Kǒng Dé Lù)</h2>
 <p><em>Pronunciation: Kǒng Dé Lù</em></p>
 <button onclick="playAudio()">🔊 Listen</button>
