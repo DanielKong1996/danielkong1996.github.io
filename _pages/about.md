@@ -26,7 +26,7 @@ Try this! I've used Google NotebookLM to generate a "mini-pod cast" based on my 
 amazing! You can listen to it below:
 
 <audio controls>
-  <source src="../assets/Daniel Kong_ CV and Research.wav.mp3" type="audio/mpeg">
+  <source src="../assets/Daniel Kong_ CV and Research.wav" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
