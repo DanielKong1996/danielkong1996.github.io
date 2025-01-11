@@ -12,13 +12,12 @@ I am Delu (Daniel) Kong, a Ph.D. student at the LT3 Language and Translation Tec
 
 I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji University, China, and earned my master's degree from the School of English Studies, Shanghai International Studies University. During my academic journey, I received multiple awards, including provincial-level Outstanding Graduate recognitions and fellowship awards for three consecutive years.
 
-You can find my CV here: [Delu's CV](../a)
+You can find my CV here: [Delu's CV](../assets/Daniel KONG-CV.pdf)
+
 
 Feel free to contact me via:
+[Email](mailto:daniel.kong@ugent.be) / [GitHub](https://github.com/danielkong1996) / [WeChat](../asset/WechatImage.jpg)
 
-Email: daniel.kong@ugent.be
-GitHub: github.com/danielkong1996
-WeChat: WeChat QR Code
 
 
 A data-driven personal website
