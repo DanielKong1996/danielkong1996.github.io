@@ -12,7 +12,7 @@ I am Delu (Daniel) Kong, a Ph.D. student at the LT3 Language and Translation Tec
 
 I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji University, China, and earned my master's degree from the School of English Studies, Shanghai International Studies University. During my academic journey, I received multiple awards, including provincial-level Outstanding Graduate recognitions and fellowship awards for three consecutive years.
 
-You can find my CV here: Daniel Kong’s CV.
+You can find my CV here: [Delu's CV](../a)
 
 Feel free to contact me via:
 
