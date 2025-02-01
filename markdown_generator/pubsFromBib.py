@@ -27,15 +27,16 @@ import os
 import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
-publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+publist ={
+    # {
+    # "proceeding": {
+    #     "file" : "proceedings.bib",
+    #     "venuekey": "booktitle",
+    #     "venue-pretext": "In the proceedings of ",
+    #     "collection" : {"name":"publications",
+    #                     "permalink":"/publication/"}
         
-    },
+    # },
     "journal":{
         "file": r"C:\Users\Kong\Downloads\output.bib",
         "venuekey" : "journal",
@@ -102,7 +103,9 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                first_name = author.first_names[0] if author.first_names else ""
+                last_name = author.last_names[0] if author.last_names else ""
+                citation = citation + " " + first_name + " " + last_name + ", "
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
