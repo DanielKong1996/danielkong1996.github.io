@@ -1,7 +1,7 @@
 ---
 title: "机器学习视域下《三国演义》三译本翻译风格对比研究"
 collection: publications
-permalink: /publication/2023-04-01-san-guo-yan-yi-translation-style
+permalink: /publications/2023-04-01-san-guo-yan-yi-translation-style
 excerpt: '本文使用机器学习中的分类和聚类方法，对中国四大名著之一的《三国演义》三译本进行翻译风格考察。'
 date: 2023-04-01
 venue: '大连大学学报'

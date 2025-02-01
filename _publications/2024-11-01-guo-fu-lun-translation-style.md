@@ -1,7 +1,7 @@
 ---
 title: "机器学习视域下政经语篇翻译风格对比研究——以《国富论》中文三译本为例"
 collection: publications
-permalink: /publication/2024-11-01-guo-fu-lun-translation-style
+permalink: /publications/2024-11-01-guo-fu-lun-translation-style
 excerpt: '本研究采用机器学习算法，探索政经语篇翻译风格特征研究的新路径。'
 date: 2024-11-01
 venue: '北京翻译'
