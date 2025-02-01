@@ -1,7 +1,8 @@
 ---
 title: "基于机器学习的政经语篇人机翻译风格研究——以《国富论》中译本为例"
 collection: publications
-permalink: /publications/2025-01-01-guo-fu-lun-human-machine-translation-style
+category: manuscripts
+permalink: /publication/2025-01-01-guo-fu-lun-human-machine-translation-style
 excerpt: '本文利用机器学习算法，基于自建《国富论》人机多译本平行语料库，通过分类、聚类、特征选择实验，考察人类专家译本与大语言模型机器译本的风格差异。'
 date: 2025-01-01
 venue: '外语导刊'

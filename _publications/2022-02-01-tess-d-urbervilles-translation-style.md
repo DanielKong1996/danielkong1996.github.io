@@ -1,7 +1,8 @@
 ---
 title: "基于平行语料库的Tess of the D'Urbervilles三译本四字格的对比研究"
 collection: publications
-permalink: /publications/2022-02-01-tess-d-urbervilles-translation-style
+category: manuscripts
+permalink: /publication/2022-02-01-tess-d-urbervilles-translation-style
 excerpt: '基于自建的Tess of the D&apos;Urberrilles三译本平行语料库，本研究旨在考察译本间不同的风格及四字格的使用情况。'
 date: 2022-02-01
 venue: '翻译研究与教学'
