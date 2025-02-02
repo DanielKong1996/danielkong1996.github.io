@@ -34,7 +34,7 @@ Feel free to contact me via:
 Funny stuff
 ======
 Try this! I've used [Google NotebookLM](https://notebooklm.google.com/) to generate a "mini-pod cast" based on my CV. Technology is 
-amazing! **Please note, this is AI-generated, so there might contain certain mistakes and exagerations. Just for FUN! **
+amazing! <b> Please note, this is AI-generated, so there might contain certain mistakes and exagerations. Just for FUN! </b>
 You can listen to it below:
 
 <audio controls>
