@@ -1,5 +1,5 @@
 ---
-title: "基于平行语料库的Tess of the D&apos;Urbervilles三译本四字格的对比研究"
+title: "基于平行语料库的Tess of the D\'Urbervilles三译本四字格的对比研究"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-02-01-tess-d-urbervilles-translation-style
