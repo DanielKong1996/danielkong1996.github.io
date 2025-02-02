@@ -10,7 +10,6 @@ redirect_from:
 
 
 <h2>孔德璐 (Kǒng Dé Lù)</h2>
-<p><em>Pronunciation: Kǒng Dé Lù</em></p>
 <button onclick="playAudio()">🔊 Listen</button>
 <audio id="audio" src="../assets/NameAudio.mp3"></audio>
 <script>
