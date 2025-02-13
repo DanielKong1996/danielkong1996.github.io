@@ -18,16 +18,15 @@ redirect_from:
   }
 </script>
 
-I am Delu (Daniel) Kong , an exchange Ph.D. student at the LT3 Language and Translation Technology Team, Ghent University, Belgium. My research interests include machine translation, post-editing, corpus-based translation studies, and digital humanities.
+I am Delu (Daniel) Kong , an exchange Ph.D. student now at the LT3 Language and Translation Technology Team, Ghent University, Belgium. My research interests include machine translation, post-editing, corpus-based translation studies, and digital humanities.
 
-I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji University, China, and earned my master's degree from the School of English Studies, Shanghai International Studies University. During my academic journey, I received multiple awards, including provincial-level Outstanding Graduate recognitions and fellowship awards for three consecutive years.
+I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji University, China, under the supervision of [Prof. Mei LI](https://www.researchgate.net/profile/May-Li-12). And I earned my master's degree from the School of English Studies, Shanghai International Studies University. During my academic journey, I received multiple awards, including provincial-level Outstanding Graduate recognitions and fellowship awards for three consecutive years.
 
 You can find my CV here: [Delu's CV](../assets/Daniel KONG-CV.pdf)
 
 
 Feel free to contact me via:
 [Email](mailto:daniel.kong@ugent.be) / [GitHub](https://github.com/danielkong1996) / [WeChat](../asset/WechatImage.jpg)
-
 
 
 Funny stuff
