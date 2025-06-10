@@ -26,7 +26,7 @@ You can find my CV here: [Delu's CV](../assets/Daniel KONG-CV.pdf)
 
 
 Feel free to contact me via:
-[Email](mailto:daniel.kong@ugent.be) / [GitHub](https://github.com/danielkong1996) / [WeChat](../asset/WechatImage.jpg)
+[Email](mailto:kongdelu2009@hotmail.com) / [GitHub](https://github.com/danielkong1996) / [WeChat](./asset/WechatImage.jpg)
 
 
 Funny stuff
