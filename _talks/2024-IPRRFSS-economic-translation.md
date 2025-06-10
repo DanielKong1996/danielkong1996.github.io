@@ -16,4 +16,4 @@ location: "The Education University of Hong Kong"
 - Stylometric pattern recognition in political-economic discourse
 
 **Related Publication:**  
-See companion study: [This paper](/publication/2024-11-01-guo-fu-lun-translation-style)
+See companion study: [This paper](https://delukong.top/publication/2024-11-01-guo-fu-lun-translation-style)
