@@ -14,15 +14,19 @@ Education
 * Ph.D in Tongji University, Shanghai, China, 2021 - 2026 (expected)
   - Supervisor Prof. Dr. May Li.
   - Research interest: Machine translation, ML-enhanced translation studies
+
 * Visiting Ph.D stay in Ghent University, Belgium, 2024 - 2025 
   - Supervisor Prof. Dr. Lieve Macken
+
 * M.S. in Shanghai International Studies University, Shanghai, China, 2018 - 2021
   - Supervisor Prof. Dr. Jidong Zhang
   - Research interest: Corpus-based linguistic and translation studies
+
 * B.S. in Shandong University of Finance and Economics, 2014 - 2018
   - Research interest: Classic British literary works
 
-Work experience
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -46,7 +50,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -60,7 +64,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -68,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
