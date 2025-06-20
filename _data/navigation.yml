@@ -13,7 +13,7 @@ main:
     url: /talks/    
 
   - title: "Grants"
-    url: _pages\grants.md
+    url: /_pages/grants.md
 
   # - title: "Teaching"
   #   url: /teaching/    
