@@ -2,9 +2,9 @@
 title: "新质生产力背景下中国网络文学的国际传播与外译挑战——以《斗破苍穹》为例"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-01-xinzhishengchanli-wangwen-fanyi
+permalink: /publication/2024-12-01-xinzhishengchanli-wangwen-fanyi
 excerpt: '本文以《斗破苍穹》为个案，探讨中国网络文学在“新质生产力”背景下的国际传播与外译挑战，分析其全球化路径、文化适配过程及未来融合新兴技术的发展可能性。'
-date: 2024-01-01
+date: 2024-12-01
 venue: '翻译与传播'
 paperurl: 'https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDTEMP&filename=FYCB202402005'
 citation: '孔德璐, 李宝虎, 何婷. (2024). &quot;新质生产力背景下中国网络文学的国际传播与外译挑战——以《斗破苍穹》为例.&quot; <i>翻译与传播</i>, (2): 63–74.'
