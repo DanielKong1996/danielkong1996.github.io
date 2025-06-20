@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Tongji University, Shanghai, China, 2021 - 2026 (expected)
+  - Supervisor Prof. Dr. May Li.
+  - Research interest: Machine translation, ML-enhanced translation studies
+* Visiting Ph.D stay in Ghent University, Belgium, 2024 - 2025 
+  - Supervisor Prof. Dr. Lieve Macken
+* M.S. in Shanghai International Studies University, Shanghai, China, 2018 - 2021
+  - Supervisor Prof. Dr. Jidong Zhang
+  - Research interest: Corpus-based linguistic and translation studies
+* B.S. in Shandong University of Finance and Economics, 2014 - 2018
+  - Research interest: Classic British literary works
 
 Work experience
 ======
