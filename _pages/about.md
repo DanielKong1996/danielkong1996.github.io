@@ -24,7 +24,13 @@ I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji U
 
 You can find my CV here: [Delu's CV](../assets/Daniel KONG-CV.pdf)
 
-**Check my latest news [here](/pages/news.md)!**
+<p style="font-size:1.3em; font-weight:bold;">
+  Check my latest news 
+  <a href="/pages/news.md" style="background:yellow; color:#d32f2f; padding:2px 6px; border-radius:4px; text-decoration:none;">
+    HERE
+  </a>
+  !
+</p>
 
 Feel free to contact me via:
 [Email](mailto:kongdelu2009@hotmail.com) / [GitHub](https://github.com/danielkong1996) / [WeChat](/asset/WechatImage.jpg)

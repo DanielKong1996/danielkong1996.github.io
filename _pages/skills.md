@@ -4,8 +4,6 @@ layout: archive
 permalink: /skills/
 ---
 
-# Skills
-
 ## Academic & Technical
 
 - **Programming for Language Data**  
