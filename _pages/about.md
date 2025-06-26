@@ -26,7 +26,7 @@ You can find my CV here: [Delu's CV](../assets/Daniel KONG-CV.pdf)
 
 <p style="font-size:1.3em; font-weight:bold;">
   Check my latest news 
-  <a href="/pages/news.md" style="background:yellow; color:#d32f2f; padding:2px 6px; border-radius:4px; text-decoration:none;">
+  <a href="/news/" style="background:yellow; color:#d32f2f; padding:2px 6px; border-radius:4px; text-decoration:none;">
     HERE
   </a>
   !
