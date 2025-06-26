@@ -5,8 +5,6 @@ permalink: /news/
 ---
 
 
-## News
-
 - **June 22–28, 2025**: Attended [Machine Translation Summit 2025](https://mtsummit2025.unige.ch/programme.html) in Geneva, Switzerland — a week of presenting, socializing, and yes, a bit of sightseeing too.
 
 - **June 2025**: Participated in the [2025 Milan Summer School in Computational Linguistics](https://www.ai-lc.it/lectures/lectures-2025/). Presented my current work at the student session — a great chance to share ideas with international peers.
