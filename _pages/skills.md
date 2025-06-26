@@ -20,7 +20,7 @@ permalink: /skills/
 
 - **Bibliographic Management**  
   Experienced in using **Zotero** for citation organization, tag-based categorization, and visual export setups—capable of producing clean citation interfaces like:  
-  `![Zotero Screenshot](/assets/zotero_screen.jpg)`  
+  <img src="/assets/zotero_screen.jpg" alt="Zotero Screenshot" width="50%" />
 
 ---
 
@@ -36,7 +36,8 @@ permalink: /skills/
   Love fixing things—from squeaky doors to jammed espresso machines. If it's broken, there's a good chance I'll try to fix it before replacing it.
 
 - 🌍 **Travel & Conferences**  
-  While pursuing studies in Europe, I've visited multiple countries—sometimes for conferences, other times just to chase sunsets, architecture, and quiet bookstores. Check it out in my Google Map: ![Google Map Screenshot](/assets/google_map_screen.jpg)
+  While pursuing studies in Europe, I've visited multiple countries—sometimes for conferences, other times just to chase sunsets, architecture, and quiet bookstores. Check it out in my Google Map:  
+  <img src="/assets/google_map_screen.jpg" alt="Google Map Screenshot" width="50%" />
 
 
 ---
