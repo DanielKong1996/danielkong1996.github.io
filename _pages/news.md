@@ -4,6 +4,9 @@ layout: archive
 permalink: /news/
 ---
 
+- **June 29 2025**: Two papers accepted in the MT summit are now available on arXiv:
+  - [A Stylometric Investigation on Retranslation Frenzy in China: Human Translations vs. Machine Translations](https://arxiv.org/abs/2506.22050)
+  - [Machine Translationese in the Wild: A Corpus-based Study](https://arxiv.org/abs/2506.22038)
 
 - **June 22–28, 2025**: Attended [Machine Translation Summit 2025](https://mtsummit2025.unige.ch/programme.html) in Geneva, Switzerland — a week of presenting, socializing, and yes, a bit of sightseeing too.
 
