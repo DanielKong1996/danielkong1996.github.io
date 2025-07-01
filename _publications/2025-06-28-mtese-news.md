@@ -1,7 +1,7 @@
 ---
 title: "Decoding Machine Translationese in English-Chinese News: LLMs vs. NMTs"
 collection: publications
-category: manuscripts
+category: Conference_Paper
 permalink: /publication/2025-06-28-mtese-news
 excerpt: 'This study explores Machine Translationese (MTese) in English-to-Chinese news translation using classification and clustering with a five-layer feature set.'
 date: 2025-06-28
@@ -14,4 +14,4 @@ citation: 'Kong, D., & Macken, L. (2025). "Decoding Machine Translationese in En
 
 This study explores Machine Translationese (MTese) in English-to-Chinese news translation using classification and clustering with a five-layer feature set. It reveals distinguishable patterns between LLM and NMT outputs—such as sentence length, conjunction use, and lexical diversity—and confirms the detectability of MTese against original Chinese texts.
 
-Recommended citation: Kong, D., & Macken, L. (2025). "Decoding Machine Translationese in English-Chinese News: LLMs vs. NMTs." *MT Summit 2025 (Research Track), arXiv preprint* arXiv:2506.22050.
+Recommended citation: Kong, D., & Macken, L. (2025). "Decoding Machine Translationese in English-Chinese News: LLMs vs. NMTs." *MT Summit 2025 (Technical Track), arXiv preprint* arXiv:2506.22050.
