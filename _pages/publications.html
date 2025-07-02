@@ -33,7 +33,12 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% if post.category == "conference_paper" %}
+        <!-- Customize how conference papers are displayed here if needed -->
+        {% include archive-single.html %}
+      {% else %}
+        {% include archive-single.html %}
+      {% endif %}
     {% endfor %}
   {% endfor %}
 {% else %}
@@ -41,6 +46,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 
