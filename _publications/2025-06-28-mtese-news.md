@@ -1,7 +1,7 @@
 ---
 title: "Decoding Machine Translationese in English-Chinese News: LLMs vs. NMTs"
 collection: publications
-category: Conference_Paper
+category: conferences
 permalink: /publication/2025-06-28-mtese-news
 excerpt: 'This study explores Machine Translationese (MTese) in English-to-Chinese news translation using classification and clustering with a five-layer feature set.'
 date: 2025-06-28
