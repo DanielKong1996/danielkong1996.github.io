@@ -5,7 +5,7 @@ type: "Symposium presentation"
 permalink: /talks/2023-10-25-tongji-um-applied-linguistics
 venue: "Tongji-UM Symposium on Frontiers in Applied Linguistics of Global Asia"
 date: 2023-10-25
-location: "Universiti Malaya, Faculty of Languages & Linguistics"
+location: "Faculty of Languages & Linguistics, Universiti Malaya, Jalan Universiti, 50603 Kuala Lumpur, Malaysia"
 ---
 
 **I went to this conference under the scholarship from Tongji University. Thanks!**

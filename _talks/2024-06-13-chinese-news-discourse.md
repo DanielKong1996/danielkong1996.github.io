@@ -5,7 +5,7 @@ type: "Conference presentation"
 permalink: /talks/2024-06-13-chinese-news-discourse
 venue: "International Conference on Chinese News Discourse in the Digital Era"
 date: 2024-06-13
-location: "University of Nottingham Ningbo China"
+location: "University of Nottingham Ningbo China, 199 Taikang East Road, Ningbo, Zhejiang, China"
 ---
 
 **Abstract:**  

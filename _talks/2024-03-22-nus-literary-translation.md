@@ -5,7 +5,7 @@ type: "Symposium presentation"
 permalink: /talks/2024-03-22-nus-literary-translation
 venue: "National University of Singapore Symposium"
 date: 2024-03-22
-location: "National University of Singapore"
+location: "National University of Singapore, 21 Lower Kent Ridge Rd, Singapore 119077"
 ---
 
 **Research Design:**
