@@ -4,10 +4,9 @@ collection: talks
 type: "Symposium presentation"
 permalink: /talks/2025-creative-text-translation
 venue: "2nd Workshop on Creative-text Translation and Technology, MT Summit 2025"
-date: 2025-xx-xx
+date: 2025-06-27
 location: "Uni Mail, Geneva, The Switherland"
 authors: "Delu Kong, Lieve Macken"
-ppt: "xxx"
 ---
 
 This study evaluates the performance of machine translations (MTs) versus human translations (HTs) in English-to-Chinese children's literature translation (CLT) from a stylometric perspective. A Peter Pan corpus was constructed, including 21 translations: 7 HTs, 7 large language model translations (LLMs), and 7 neural machine translation outputs (NMTs). The analysis uses both a generic feature set (lexical, syntactic, readability, n-gram features) and a creative text translation (CTT-specific) feature set (repetition, rhythm, translatability, miscellaneous), totaling 447 linguistic features.

@@ -4,7 +4,7 @@ collection: talks
 type: "Conference presentation"
 permalink: /talks/2025-06-27-mt-summit-mtese
 venue: "MT Summit 2025, Research: Technical track"
-date: 2025-03-10
+date: 2025-06-28
 location: "Uni Mail, Geneva, The Switherland"
 authors: "Delu Kong, Lieve Macken"
 ---
