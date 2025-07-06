@@ -3,6 +3,7 @@ title: "News"
 layout: archive
 permalink: /news/
 ---
+- **July 3, 2025**: Attended the [**EST Conference**](https://ahc.leeds.ac.uk/events/event/2764/11th_est_congress_the_changing_faces_of_translation_and_interpreting_studies) at the University of Leeds, UK. Presented in Panel 21 on *"A Stylometric Investigation on Retranslation Frenzy in China: Human Translations vs. Machine Translations"*. A fantastic conference with over 700 participants — really enjoyed the experience!
 
 - **June 29 2025**: Two papers accepted in the MT summit are now available on arXiv:
   - [Decoding Machine Translationese in English-Chinese News: LLMs vs. NMTs](https://arxiv.org/abs/2506.22050)
